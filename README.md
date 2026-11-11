@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshxo42/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/harshxo42/leetcode-/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/harshxo42/leetcode-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/harshxo42/leetcode-/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshxo42/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshxo42/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshxo42/leetcode-/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshxo42/leetcode-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
